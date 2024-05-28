@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+div{
+    margin-top: 15px;
+    
+}
+img{
+    width: 50%;
+    margin-left: 25%;
+    border: 5px solid white;
+}
+.font{
+    color: #ffd700;
+    text-align: center;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.quote{
+    color: white;
+}
+audio{
+  display: block;
+  margin: 10px auto;
+}
